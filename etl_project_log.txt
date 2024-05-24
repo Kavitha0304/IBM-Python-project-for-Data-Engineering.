@@ -1,0 +1,14 @@
+2024-May-24-07:08:59 : Preliminaries complete. Initiating ETL process
+2024-May-24-07:10:39 : Preliminaries complete. Initiating ETL process
+2024-May-24-07:12:57 : Preliminaries complete. Initiating ETL process
+2024-May-24-07:16:27 : Preliminaries complete. Initiating ETL process
+2024-May-24-07:17:18 : Preliminaries complete. Initiating ETL process
+2024-May-24-07:17:19 : Data extraction complete. Initiating Transformation process
+2024-May-24-07:17:19 : Data transformation complete. Initiating loading process
+2024-May-24-07:20:06 : Preliminaries complete. Initiating ETL process
+2024-May-24-07:20:07 : Data extraction complete. Initiating Transformation process
+2024-May-24-07:20:07 : Data transformation complete. Initiating loading process
+2024-May-24-07:20:07 : Data saved to CSV file
+2024-May-24-07:20:07 : SQL Connection initiated.
+2024-May-24-07:20:07 : Data loaded to Database as table. Running the query
+2024-May-24-07:20:07 : Process Complete.
